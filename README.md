@@ -1,6 +1,2 @@
-# jadwalshalat
-==========================
+# jadwalshalad
 AUTHOR : Mr.TcG_Cyber
-WA     : +6283813844572
-TEAM   : Lᴵᴳᴴᵀ Cᵞᴮᴱᴿ Iᴺᴰᴼᴺᴱˢᴵᴬ
-==========================
